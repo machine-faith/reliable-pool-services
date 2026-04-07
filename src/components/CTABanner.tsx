@@ -15,11 +15,11 @@ export default function CTABanner() {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl md:text-6xl font-bold text-white mb-6">
-            Ready for an <span className="text-aqua-500">Epic</span> Pool?
+            Ready for a <span className="text-aqua-500">Reliable</span> Pool?
           </h2>
           <p className="text-slate-400 text-lg mb-10 max-w-2xl mx-auto">
-            Join hundreds of Sydney pool owners who never worry about their pool anymore. 
-            Free assessment — no obligation, no pushy sales.
+            Join hundreds of Sydney families who never worry about their pool maintenance again. 
+            Free on-site assessment — no obligation, professional advice.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <motion.a
@@ -32,11 +32,11 @@ export default function CTABanner() {
               <ArrowRight size={20} />
             </motion.a>
             <a
-              href="tel:0406602222"
+              href="tel:0288505222"
               className="flex items-center gap-2 text-white border border-white/20 px-8 py-4 rounded-full font-bold hover:bg-white/10 transition-all"
             >
               <Phone size={18} />
-              Call Tim: 0406 602 222
+              Call Nathan or Kez: 02 8850 5222
             </a>
           </div>
         </motion.div>

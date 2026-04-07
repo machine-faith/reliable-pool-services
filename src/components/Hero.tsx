@@ -8,8 +8,8 @@ export default function Hero() {
       {/* Cinematic Background */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-1.jpg"
-          alt="Premium residential pool maintained by Reliable Pool Services"
+          src="/images/hero-premium.png"
+          alt="Luxury residential pool in Sydney - Reliable Pool Services"
           className="w-full h-full object-cover scale-105 animate-slow-zoom"
           referrerPolicy="no-referrer"
           loading="eager"

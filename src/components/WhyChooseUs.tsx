@@ -11,27 +11,27 @@ const reasons = [
   {
     icon: Clock,
     title: 'Fast Response',
-    description: 'Emergency callout? Tim picks up the phone. Quotes returned quickly — no waiting around for days.',
+    description: 'Emergency issue? Nathan or Kez pick up the phone personally. Quotes returned quickly — no waiting around for weeks.',
   },
   {
     icon: HeartHandshake,
-    title: 'Owner Operated',
-    description: 'Not a franchise. You deal directly with Tim — someone who stakes his name on every job he does.',
+    title: 'Family Owned & Operated',
+    description: 'Not a franchise. You deal directly with the owners — professionals who stake their family name on every pool they service.',
   },
   {
     icon: Sparkles,
-    title: 'Sparkling Results',
-    description: 'Every visit leaves your pool healthy, balanced, and crystal clear. That\'s the Epic Pool Care standard.',
+    title: 'Reliable Results',
+    description: 'Every visit leaves your pool healthy, balanced, and crystal clear. That\'s the Reliable Pool Services guarantee.',
   },
   {
     icon: Leaf,
-    title: 'Eco-Conscious Methods',
-    description: 'We use algaecide only when needed and add Cal Stop for Quartzon surfaces — caring for your pool and the environment.',
+    title: 'Eco-Conscious Excellence',
+    description: 'We specialise in Theralux mineral-based sanitisation — caring for your pool, your health, and the environment.',
   },
   {
     icon: MapPin,
-    title: 'Local Sydney Knowledge',
-    description: 'Tim knows Greater Sydney\'s water conditions, pool types, and local quirks inside out — experience you can trust.',
+    title: 'True Local Knowledge',
+    description: 'Nathan knows Sydney\'s water conditions, from the salt air of the coast to the bore water quirks of the Hills District.',
   },
 ];
 
@@ -41,10 +41,10 @@ export default function WhyChooseUs() {
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-20">
           <h2 className="text-4xl md:text-6xl font-bold text-white mb-6">
-            Why <span className="text-aqua-500">Epic?</span>
+            Why <span className="text-aqua-500">Reliable?</span>
           </h2>
           <p className="text-slate-400 max-w-2xl mx-auto text-lg">
-            There are plenty of pool guys. Here's why Sydney pool owners trust Epic Pool Care — and keep coming back.
+            There are plenty of pool guys. Here's why 450+ Sydney families trust Reliable Pool Services — and stay with us for years.
           </p>
         </div>
 
