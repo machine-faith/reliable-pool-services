@@ -8,8 +8,8 @@ export default function FeatureSlider() {
   const containerRef = useRef<HTMLDivElement>(null);
 
   // Exact files specified by the user
-  const beforeImage = "/images/green pool treatment before.avif";
-  const afterImage = "/images/green pool treatment after.avif";
+  const beforeImage = "/images/before-green-pool.png";
+  const afterImage = "/images/after-clean-pool.png";
 
   const handleMove = (clientX: number) => {
     if (!containerRef.current) return;
